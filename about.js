@@ -1,4 +1,4 @@
-let bioText = "This project is about the space between struggling alone and asking for help. Reach. Out. To me. Three words, one motion — the hardest step is often just saying something, to someone. If you're going through something difficult, you don't have to carry it by yourself. Reaching out isn't weakness. It's the beginning of getting better.";
+let bioText = "This project is about the space between struggling alone and asking for help. Reach. Out. To me. four words, one motion, the hardest step is often just saying something, to someone. If you're going through something difficult, you don't have to carry it by yourself. Reaching out isn't weakness. It's the beginning of getting better.";
 let arrowX, arrowY;
 const arrowR = 40;
 const margin = 100;
