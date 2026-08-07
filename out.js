@@ -16,7 +16,7 @@ const arrowR = 40;
 async function setup() {
   createCanvas(windowWidth, windowHeight);
   hand = await loadImage('assets/hand.png');
-  hand.resize(250, 500);
+  hand.resize(300, 0);
   removeWhiteBackground(hand);
   textFont('Georgia');
   textSize(80);
